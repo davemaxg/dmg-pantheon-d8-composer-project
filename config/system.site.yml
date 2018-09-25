@@ -1,0 +1,14 @@
+uuid: 7d278c3c-0532-4877-9715-2419566b87a9
+name: dmg-pantheon-d8-composer-project
+mail: david@davidgolden.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
